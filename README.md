@@ -33,7 +33,7 @@ Ensure the following are installed on your system:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-repository.git
+   git clone [https://github.com/Supermathew/rbacpro.git](https://github.com/Supermathew/rbacpro.git)
    cd your-repository
    ```
 
