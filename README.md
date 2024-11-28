@@ -197,11 +197,9 @@ To ensure the application is working as expected, run the following tests:
 ---
 
 ## Author
-**Your Name**  
+**Mathew Alex**  
 Feel free to reach out at [dolikemathewalex@gmail.com](mailto:dolikemathewalex@gmail.com) for queries or suggestions.
-```
 
----
 
 ### What's New:
 1. **Refresh Token Details**:
