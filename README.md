@@ -2,7 +2,6 @@
 
 
 
-```markdown
 # Django REST API with JWT Authentication, Throttling, and Refresh Token Management
 
 ## Project Overview
