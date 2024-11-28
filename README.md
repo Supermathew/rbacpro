@@ -181,7 +181,7 @@ To ensure the application is working as expected, run the following tests:
 - **Expected**: Old tokens are invalidated, and only the latest tokens are valid.
 
 #### **Test Case 5: Throttling for Authenticated Users**
-- **Action**: Make more than 5 requests per minute to a protected route.
+- **Action**: Make more than 20 requests per minute to a protected route.
 - **Expected**: A `429 Too Many Requests` response is returned.
 
 #### **Test Case 6: Protected Route**
